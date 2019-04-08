@@ -1,3 +1,4 @@
 puppet_git
 
 git status puppet 
+git submodule foreach git status --V1.2
