@@ -1,0 +1,3 @@
+[submodule "ECB"]
+	path = ECB
+	url = https://github.com/mtagala-tcs/PuppetModules-ECB
