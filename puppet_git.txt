@@ -5,3 +5,6 @@ git submodule foreach git status --V1.2
 git clean -fd  -- V1.3
 
 git submodule foreach git clean -fd  - V1.4
+
+git reset -- hard head
+git submodule foreach git reset --hard head
